@@ -1,0 +1,2 @@
+id|name|year|month|day|hour|minute|location|totalSeats|availableSeats
+2|Theatre Play|2025|7|5|18|30|Stage B|50|50

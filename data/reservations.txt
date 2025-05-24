@@ -1,0 +1,3 @@
+id|username|eventId|numTickets
+4|ali|2(Theatre Play)|3
+5|user1|Cancelled(1)|2

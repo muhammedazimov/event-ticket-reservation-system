@@ -1,0 +1,7 @@
+id|username|password
+1|mami|123
+2|gamze|113
+3|asd|sad
+4|mmm|123
+5|admin1|pass123
+6|admin1|pass123
